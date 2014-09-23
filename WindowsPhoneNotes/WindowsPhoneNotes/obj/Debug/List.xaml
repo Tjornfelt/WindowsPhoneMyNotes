@@ -1,0 +1,31 @@
+﻿<Page
+    x:Class="WindowsPhoneNotes.List"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WindowsPhoneNotes"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Name="grid" Margin="5">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="10*" />
+            <RowDefinition Height="1*" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <TextBlock TextWrapping="Wrap" VerticalAlignment="Top" FontSize="42" Grid.Column="0" Grid.Row="0">Notes</TextBlock>
+        
+        <!-- Container for the dynamically added list items -->
+        <ListView x:ConnectionId='1' Name="listview" Grid.Column="0" Grid.Row="1"                                              />
+
+        <Button x:ConnectionId='2'                    Name="back" Background="Red" Grid.Row="2" Grid.ColumnSpan="2" BorderThickness="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">Back</Button>
+
+
+    </Grid>
+</Page>
+

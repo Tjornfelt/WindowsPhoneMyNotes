@@ -1,0 +1,147 @@
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\App.g.i.cs
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\App.g.cs
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\XamlTypeInfo.g.cs
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\App.xaml
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\App.xbf
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\XamlSaveStateFile.xml
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\App.xbf
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\WindowsPhoneNotes.xr.xml
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\WindowsPhoneNotes.exe
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\WindowsPhoneNotes.pdb
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\resources.pri
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\AppxManifest.xml
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\WindowsPhoneNotes.build.appxrecipe
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\WindowsPhoneNotes.exe
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\WindowsPhoneNotes.pdb
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\priconfig.xml
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\priconfig.xml.intermediate
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\layout.resfiles
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\layout.resfiles.intermediate
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\resources.resfiles
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\resources.resfiles.intermediate
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\pri.resfiles
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\pri.resfiles.intermediate
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\qualifiers.txt
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\qualifiers.txt.intermediate
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\ProjectArchitectures.txt
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\Login.xbf
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\Login.g.i.cs
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\Login.g.cs
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\Login.xaml
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\Login.xbf
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\Main.xbf
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\Main.g.i.cs
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\Main.g.cs
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\Main.xaml
+c:\users\mads\documents\visual studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\Main.xbf
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\WindowsPhoneNotes.csprojResolveAssemblyReference.cache
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\WindowsPhoneNotes.csproj.GenerateResource.Cache
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\List.g.i.cs
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\List.g.cs
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\List.xbf
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\List.xaml
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\List.xbf
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\ShowNote.xbf
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\ShowNote.g.i.cs
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\ShowNote.g.cs
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\ShowNote.xaml
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\ShowNote.xbf
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\NewNote.xbf
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\NewNote.g.i.cs
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\NewNote.g.cs
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\NewNote.xaml
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\NewNote.xbf
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\EditNote.xbf
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\EditNote.g.i.cs
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\EditNote.g.cs
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\EditNote.xaml
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\EditNote.xbf
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\ListDelete.xbf
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\ListDelete.g.i.cs
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\ListDelete.g.cs
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\ListDelete.xaml
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\ListDelete.xbf
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\EditList.xbf
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\EditList.g.i.cs
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\EditList.g.cs
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\EditList.xaml
+C:\Users\Mads\Documents\Visual Studio 2013\Projects\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\EditList.xbf
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\App.xbf
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\EditList.xbf
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\EditNote.xbf
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\List.xbf
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\ListDelete.xbf
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\Login.xbf
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\Main.xbf
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\NewNote.xbf
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\ShowNote.xbf
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\WindowsPhoneNotes.xr.xml
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\WindowsPhoneNotes.exe
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\WindowsPhoneNotes.pdb
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\resources.pri
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\AppxManifest.xml
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\WindowsPhoneNotes.build.appxrecipe
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\WindowsPhoneNotes.csprojResolveAssemblyReference.cache
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\App.g.i.cs
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\App.g.cs
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\EditList.g.i.cs
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\EditList.g.cs
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\EditNote.g.i.cs
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\EditNote.g.cs
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\List.g.i.cs
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\List.g.cs
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\ListDelete.g.i.cs
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\ListDelete.g.cs
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\Login.g.i.cs
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\Login.g.cs
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\Main.g.i.cs
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\Main.g.cs
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\NewNote.g.i.cs
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\NewNote.g.cs
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\ShowNote.g.i.cs
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\ShowNote.g.cs
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\App.xaml
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\EditList.xaml
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\EditNote.xaml
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\List.xaml
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\ListDelete.xaml
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\Login.xaml
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\Main.xaml
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\NewNote.xaml
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\ShowNote.xaml
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\App.xbf
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\EditList.xbf
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\EditNote.xbf
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\List.xbf
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\ListDelete.xbf
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\Login.xbf
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\Main.xbf
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\NewNote.xbf
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\ShowNote.xbf
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\WindowsPhoneNotes.exe
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\WindowsPhoneNotes.pdb
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\WindowsPhoneNotes.csproj.GenerateResource.Cache
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\priconfig.xml
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\priconfig.xml.intermediate
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\layout.resfiles
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\layout.resfiles.intermediate
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\resources.resfiles
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\resources.resfiles.intermediate
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\pri.resfiles
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\pri.resfiles.intermediate
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\qualifiers.txt
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\ProjectArchitectures.txt
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\bin\Debug\OfflineNote.xbf
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\OfflineNote.g.i.cs
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\OfflineNote.g.cs
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\OfflineNote.xaml
+C:\Users\Mads\Documents\GitHub\WindowsPhoneMyNotes\WindowsPhoneNotes\WindowsPhoneNotes\obj\Debug\OfflineNote.xbf
